@@ -1,6 +1,10 @@
 backtotop:
   version: 1.x
+  css:
+    theme:
+      css/backtotop.css: {}
   js:
-    backtotop.js: {}
+    js/backtotop.js: {}
   dependencies:
     - core/jquery
+    - core/jquery.once

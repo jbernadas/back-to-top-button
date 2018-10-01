@@ -1,3 +1,0 @@
-function backtotop_page_attachments(array &$attachments) {
-    $attachments['#attached']['library'][] = 'backtotop/backtotop';
-}

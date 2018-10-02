@@ -1,10 +1,9 @@
 #toTop {
-    color: #35A0B3 !important;
-    -webkit-text-fill-color: aliceblue;
+    color: #35A0B3;
     width: 40px;
     height: 40px;
-    position: fixed !important;
+    position: fixed;
     cursor: pointer;
-    bottom: 40px !important;
-    right: 40px !important;
+    bottom: 40px;
+    right: 40px;
 }

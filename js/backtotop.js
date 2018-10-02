@@ -19,10 +19,10 @@
           })   
         });    
         // When the user clicks the toTop button, we want the page to scroll to the top slowly.
-        $("#toTop").click(function(){
+        $("#toTop").click(function(e){
            // Disable the default behaviour when a user clicks an empty anchor link.
            // (The page jumps to the top instead of animating)
-           event.preventDefault(); 
+           e.preventDefault(); 
            // Animate the scrolling motion.
            $("html, body").animate({
              scrollTop:0

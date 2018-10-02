@@ -1,4 +1,4 @@
-<h1>Back-to-Top Button</h1>
+#back_to_top_button</h1>
 
 This Drupal 8 module creates a back-to-top button on the bottom-right corner of your website. The button will initially be invisible, but once the viewer scrolls down the button will appear. The webpage will scroll back up slowly once the button is clicked. This is handy especially when you have a very long webpage, to avoid users from having to scroll all the way back up using their mouse scroll button.  
 

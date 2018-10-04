@@ -1,6 +1,6 @@
 name: Back-To-Top
 description: Creates a back-to-top button at the bottom of screen.
-package: ESC-2
+package: custom
 type: module
 core: 8.x
 dependencies:

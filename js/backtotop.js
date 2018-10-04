@@ -28,6 +28,7 @@
              scrollTop:0
              },"slow");
             page.stop();
+            return false;
         });  
       }
     };
